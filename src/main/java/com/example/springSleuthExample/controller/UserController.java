@@ -1,4 +1,4 @@
-package com.AJIO.exmaple2.controller;
+package com.example.springSleuthExample.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpHeaders;
@@ -11,9 +11,9 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestHeader;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.AJIO.exmaple2.model.APIResponse;
-import com.AJIO.exmaple2.model.User;
-import com.AJIO.exmaple2.service.UserService;
+import com.example.springSleuthExample.model.APIResponse;
+import com.example.springSleuthExample.model.User;
+import com.example.springSleuthExample.service.UserService;
 
 import lombok.extern.java.Log;
 

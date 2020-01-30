@@ -1,4 +1,4 @@
-package com.AJIO.exmaple2.domain;
+package com.example.springSleuthExample.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

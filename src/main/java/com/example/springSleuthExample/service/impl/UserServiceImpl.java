@@ -1,16 +1,16 @@
-package com.AJIO.exmaple2.service.impl;
+package com.example.springSleuthExample.service.impl;
 
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
-import com.AJIO.exmaple2.clients.SampleClient;
-import com.AJIO.exmaple2.domain.UserEntity;
-import com.AJIO.exmaple2.model.APIResponse;
-import com.AJIO.exmaple2.model.User;
-import com.AJIO.exmaple2.repository.UserRepository;
-import com.AJIO.exmaple2.service.UserService;
+import com.example.springSleuthExample.clients.SampleClient;
+import com.example.springSleuthExample.domain.UserEntity;
+import com.example.springSleuthExample.model.APIResponse;
+import com.example.springSleuthExample.model.User;
+import com.example.springSleuthExample.repository.UserRepository;
+import com.example.springSleuthExample.service.UserService;
 
 import lombok.extern.java.Log;
 @Service

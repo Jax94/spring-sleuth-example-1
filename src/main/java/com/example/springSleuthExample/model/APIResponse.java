@@ -1,4 +1,4 @@
-package com.AJIO.exmaple2.model;
+package com.example.springSleuthExample.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 

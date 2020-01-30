@@ -1,6 +1,7 @@
-package com.AJIO.exmaple2.service;
+package com.example.springSleuthExample.service;
 
-import com.AJIO.exmaple2.model.User;
+import com.example.springSleuthExample.model.User;
+
 public interface UserService {
 	
 	User addUser(User user);
